@@ -1,0 +1,8 @@
+C:\source\CSharp\RCVSorter\obj\Debug\netcoreapp3.1\RCVSorter.csprojAssemblyReference.cache
+C:\source\CSharp\RCVSorter\obj\Debug\netcoreapp3.1\RCVSorter.csproj.CoreCompileInputs.cache
+C:\source\CSharp\RCVSorter\obj\Debug\netcoreapp3.1\RCVSorter.AssemblyInfoInputs.cache
+C:\source\CSharp\RCVSorter\obj\Debug\netcoreapp3.1\RCVSorter.AssemblyInfo.cs
+C:\source\CSharp\RCVBacklogSorter\obj\Debug\netcoreapp3.1\RCVSorter.csprojAssemblyReference.cache
+C:\source\CSharp\RCVBacklogSorter\obj\Debug\netcoreapp3.1\RCVSorter.csproj.CoreCompileInputs.cache
+C:\source\CSharp\RCVBacklogSorter\obj\Debug\netcoreapp3.1\RCVSorter.AssemblyInfoInputs.cache
+C:\source\CSharp\RCVBacklogSorter\obj\Debug\netcoreapp3.1\RCVSorter.AssemblyInfo.cs

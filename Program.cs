@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace RCVBacklogSorter
+namespace RCVSorter
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.Clear()
+            Console.Clear();
             ProgramController pc = new ProgramController();
             pc.Run();
         }

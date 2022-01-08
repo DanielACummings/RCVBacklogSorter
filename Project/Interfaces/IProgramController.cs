@@ -1,4 +1,4 @@
-namespace RCVBacklogSorter.Project.Interfaces
+namespace RCVSorter.Project.Interfaces
 {
     public interface IProgramController
     {

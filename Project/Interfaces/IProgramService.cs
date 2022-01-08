@@ -1,11 +1,13 @@
 using System.Collections.Generic;
-using RCVBacklogSorter.Project.Models;
+using RCVSorter.Project.Models;
 
-namespace RCVBacklogSorter.Project.Interfaces
+namespace RCVSorter.Project.Interfaces
 {
-    public interface IProjectService
+    public interface IProgramService
     {
-        List<string> Messages {get;}
-        void Setup(string )
+        List<string> messages {get;}
+        void Setup(string playerName);
+
+        void Help();
     }
 }

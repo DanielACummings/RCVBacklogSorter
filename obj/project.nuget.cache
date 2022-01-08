@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JUFbb6wYFkXlK63tSQryj5BbyqHsL+Au33plft30Io+YZQwvPWAdqIYEiRL/e/plraZI0l8dfl+E5XkFkowcOg==",
+  "dgSpecHash": "I8Rpy2q353Iq1qAgqQpsQscMeLDxePjA+a2B0OhpgWFtzDilx5DWe8yYRjxlRH6UH08qZQjHzeM6SqStxyLoyA==",
   "success": true,
-  "projectFilePath": "C:\\source\\CSharp\\RCVBacklogSorter\\RCVBacklogSorter.csproj",
+  "projectFilePath": "C:\\source\\CSharp\\RCVBacklogSorter\\RCVSorter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

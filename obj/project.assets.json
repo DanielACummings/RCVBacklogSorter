@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\CSharp\\RCVBacklogSorter\\RCVBacklogSorter.csproj",
-      "projectName": "RCVBacklogSorter",
-      "projectPath": "C:\\source\\CSharp\\RCVBacklogSorter\\RCVBacklogSorter.csproj",
+      "projectUniqueName": "C:\\source\\CSharp\\RCVBacklogSorter\\RCVSorter.csproj",
+      "projectName": "RCVSorter",
+      "projectPath": "C:\\source\\CSharp\\RCVBacklogSorter\\RCVSorter.csproj",
       "packagesPath": "C:\\Users\\swing\\.nuget\\packages\\",
       "outputPath": "C:\\source\\CSharp\\RCVBacklogSorter\\obj\\",
       "projectStyle": "PackageReference",
